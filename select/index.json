@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Benz S",
+  "base_artist": "Eric.B.Jr",
+  "createdAt": "2026-02-09T13:04:16.324573Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mercedes Benz",
+      "artist": "Janis Joplin",
+      "has_synced": true,
+      "path": "select/01_Mercedes_Benz_Janis_Joplin.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Fire [Ft. Spragga Benz]",
+      "artist": "Kelis",
+      "has_synced": true,
+      "path": "select/02_Fire_[Ft._Spragga_Benz]_Kelis.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Benz Truck (гелик)",
+      "artist": "Lil Peep",
+      "has_synced": true,
+      "path": "select/03_Benz_Truck_(гелик)_Lil_Peep.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Benz Freestyle",
+      "artist": "24hrs feat. DJ Drama",
+      "has_synced": false,
+      "path": "select/04_Benz_Freestyle_24hrs_feat._DJ_Drama.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Benz Freestyle",
+      "artist": "24hrs;Dj Drama",
+      "has_synced": false,
+      "path": "select/05_Benz_Freestyle_24hrs;Dj_Drama.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Benz",
+      "artist": "Denzel Curry",
+      "has_synced": true,
+      "path": "select/06_Benz_Denzel_Curry.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Benz Friends",
+      "artist": "FUTURE feat. André 3000",
+      "has_synced": false,
+      "path": "select/07_Benz_Friends_FUTURE_feat._André_3000.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Benz Friends (Whatchutola) (featuring André 3000)",
+      "artist": "Future",
+      "has_synced": false,
+      "path": "select/08_Benz_Friends_(Whatchutola)_(featuring_André_3000)_Future.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Top Off Benz (feat. Young Thug)",
+      "artist": "Kodak Black feat. Young Thug",
+      "has_synced": true,
+      "path": "select/09_Top_Off_Benz_(feat._Young_Thug)_Kodak_Black_feat._Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Top Off Benz (feat. Young Thug)",
+      "artist": "Kodak Black",
+      "has_synced": true,
+      "path": "select/10_Top_Off_Benz_(feat._Young_Thug)_Kodak_Black.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Mercedes benz",
+      "artist": "Loredana Bertè",
+      "has_synced": true,
+      "path": "select/11_Mercedes_benz_Loredana_Bertè.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Benz",
+      "artist": "Skott",
+      "has_synced": true,
+      "path": "select/12_Benz_Skott.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Benz - Acoustic",
+      "artist": "Skott",
+      "has_synced": true,
+      "path": "select/13_Benz_-_Acoustic_Skott.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Mercedez Benz",
+      "artist": "Janis Joplin",
+      "has_synced": true,
+      "path": "select/14_Mercedez_Benz_Janis_Joplin.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Mercedes Benz (Remix)",
+      "artist": "Janis Joplin",
+      "has_synced": true,
+      "path": "select/15_Mercedes_Benz_(Remix)_Janis_Joplin.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Mercedez Benz (Remix)",
+      "artist": "Janis Joplin",
+      "has_synced": false,
+      "path": "select/16_Mercedez_Benz_(Remix)_Janis_Joplin.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Mercedes Benz - Live Arena Ciudad de México el 6 de mayo de 2017",
+      "artist": "Mägo de Oz",
+      "has_synced": true,
+      "path": "select/17_Mercedes_Benz_-_Live_Arena_Ciudad_de_México_el_6_de_mayo_de_2017_Mägo_de_Oz.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Mercedes Benz",
+      "artist": "Janis Joplin",
+      "has_synced": true,
+      "path": "select/18_Mercedes_Benz_Janis_Joplin.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Benz S",
+      "artist": "Eric.B.Jr",
+      "has_synced": false,
+      "path": "select/pl_01_Benz_S_Eric.B.Jr.txt"
+    }
+  ]
+}
